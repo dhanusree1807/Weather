@@ -4,15 +4,15 @@ The [Weather project](https://github.com/dhanusree1807/Weather) is a frontend we
 
 The repository contains the following key files:
 
-1.index.html
+* index.html
       The main HTML file that structures the webpage.
-2.style.css 
+* style.css 
       Contains the CSS styles to enhance the visual appearance of the application.
-3.script.js '
+* script.js 
        Houses the JavaScript code responsible for fetching and displaying weather data.
-4.package.json and package-lock.json '
+* package.json and package-lock.json 
        Define the project's dependencies and metadata.
-5..gitignore 
+* .gitignore 
        Specifies files and directories to be ignored by Git.
 
 🔍 Functionality
@@ -32,10 +32,10 @@ The repository contains the following key files:
 
 To further develop this project, consider implementing the following features:
 
-API Key Management: Securely handle API keys using environment variables or a backend proxy.
-Error Handling: Provide user feedback for invalid inputs or failed API requests.
-Extended Forecast: Include multi-day weather forecasts for comprehensive information.
-Geolocation: Automatically detect and display weather information based on the user's current location.
-User Interface Improvements: Enhance the visual design and responsiveness for better user experience.
+* API Key Management: Securely handle API keys using environment variables or a backend proxy.
+* Error Handling: Provide user feedback for invalid inputs or failed API requests.
+* Extended Forecast: Include multi-day weather forecasts for comprehensive information.
+* Geolocation: Automatically detect and display weather information based on the user's current location.
+* User Interface Improvements: Enhance the visual design and responsiveness for better user experience.
 
 For more details or to contribute to the project, visit the repository: [https://github.com/dhanusree1807/Weather](https://github.com/dhanusree1807/Weather).
