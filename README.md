@@ -4,15 +4,15 @@ The [Weather project](https://github.com/dhanusree1807/Weather) is a frontend we
 
 The repository contains the following key files:
 
-* index.html
+* index.html :
       The main HTML file that structures the webpage.
-* style.css 
+* style.css :
       Contains the CSS styles to enhance the visual appearance of the application.
-* script.js 
+* script.js :
        Houses the JavaScript code responsible for fetching and displaying weather data.
-* package.json and package-lock.json 
+* package.json and package-lock.json :
        Define the project's dependencies and metadata.
-* .gitignore 
+* .gitignore :
        Specifies files and directories to be ignored by Git.
 
 🔍 Functionality
